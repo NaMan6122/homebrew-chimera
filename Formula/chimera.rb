@@ -4,7 +4,6 @@
 class Chimera < Formula
   desc "Your chat subscriptions as an OpenAI-compatible API"
   homepage "https://github.com/NaMan6122/ChimerA"
-  version "0.1.0"
   license "MIT"
 
   livecheck do
